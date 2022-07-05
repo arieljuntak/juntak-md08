@@ -27,8 +27,8 @@ global.webm = 'https://saweria.co/juntakstoreid'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 6.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》 Rp 25.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 45.000\nMAKSIMAL 1 GRUP\n》4 BULAN  Rp 30.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
+global.fotonya1 = 'https://photos.app.goo.gl/GbApnRXp9eHTEYmj7' //ganti jadi foto bot mu
+global.fotonya2 = 'https://photos.app.goo.gl/GbApnRXp9eHTEYmj7' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '↻JuntakBotz𝙼𝙳'
