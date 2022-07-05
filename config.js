@@ -17,10 +17,10 @@ global.instagram = 'https://instagram.com/sahrulwara_____'
 global.github = 'https://github.com/warikrr'
 global.dana = '082165449262'
 global.pulsa = '082165449262'
-global.gopay = ''Gopay Saya Ke Blokir Kk/Bg'
+global.gopay = 'Gopay Saya Ke Blokir Kk/Bg'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'JuntakBotzMD'
 global.gc = 'https://chat.whatsapp.com/HWsoJMPE57GKnKmJ3Io8gq'
 global.web = 'https://chat.whatsapp.com/HWsoJMPE57GKnKmJ3Io8gq' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/juntakstoreid'
